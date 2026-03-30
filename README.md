@@ -1,5 +1,6 @@
-AI-CONTENT-MARKETING
-this is my task 2
+**AI-CONTENT-MARKETING**
+
+This is my task 2
 ---
 
 # 🛒 Task 2: AI-Based Customer Support Chatbot  
